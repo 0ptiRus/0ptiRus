@@ -31,7 +31,7 @@
 
 ### 🌐 Мои контакты
 <p align="center">
-  <a href="https://t.me/neverdopart"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" /></a>
+  <a href="https://t.me/neverdopart"><img src="https://img.icons8.com/?size=50&id=7xE9VDBMDtZ0&format=png&color=000000" alt="Telegram" /></a>
   <a href="mailto:tylerthecatoc@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
